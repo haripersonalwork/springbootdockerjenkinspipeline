@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springbootdockerjenkinspipeline
+
+server:
+  port: 9025
